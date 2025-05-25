@@ -1,6 +1,6 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "jmp/app0x",
+    "description": "Proyecto MVC aplicacion_de_estudio",
     "type": "project",
     "config": {
         "platform-check": false
