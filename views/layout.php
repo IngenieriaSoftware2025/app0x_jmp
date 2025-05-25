@@ -12,10 +12,10 @@
 
 <body>
     <nav id="navbar-example2" class="navbar bg-dark px-3 mb-3">
-        <a class="navbar-brand text-white" href="/MVC/">INICIO</a>
+        <a class="navbar-brand text-white" href="/app0x_jmp/">INICIO</a>
         <ul class="nav nav-pills">
             <li class="nav-item">
-                <a class="nav-link" href="/MVC/usuario">Usuarios</a>
+                <a class="nav-link" href="/app0x_jmp/usuario">Usuarios</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#scrollspyHeading2">Second</a>
